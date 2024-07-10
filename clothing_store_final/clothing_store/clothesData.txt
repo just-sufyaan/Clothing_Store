@@ -1,0 +1,7 @@
+T-shirt, Polo-neck T-shirt, M, Nike, 599.99, 50, Images/item1.jpg
+Jeans, Slim-fit denim jeans, 32/32, Levi, 699.99, 30, Images/item2.jpg
+Sneakers, Classic white sneakers, 9, Converse, 799.99, 40, Images/item3.jpg
+Hoodie, Fleece hoodie, L, Adidas, 599.99, 20, Images/item4.jpg
+Dress , Dress shirt, 16, Calvin Klein, 659.99 , 25, Images/item5.jpg
+Jacket, Lightweight zip-up jacket, XL, The North Face, 1299.99, 15, Images/item6.jpg
+Shorts, Cargo shorts, 34, Under Armour, 399.99, 35, Images/item7.jpg

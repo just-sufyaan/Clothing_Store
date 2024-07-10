@@ -1,0 +1,6 @@
+admin1, admin1@gmail.com, $2y$10$9oPCbYS4EohPFG29ucdjRu1auR3FUBKkCX9N1DpYYgjPQeYb7Yvki
+admin2, admin2@gmail.com, $2y$10$uxirBuQ5cW/TzbPJdDSx4.NFoYN7uV9JqOhjXaOL1ET1smQjMQCqK
+admin3, admin3@gmail.com, $2y$10$D4qQD6EJotgHlV79UNZVm.RytPBdE0UJgP1z7UMysK9RiOb.fW.nq
+admin4, admin4@gmail.com, $2y$10$wAEViF1snLAWr6ZZ9hR4YOVZMRM8jWRygE5I/FW8EFZjBMvS1r4Ne
+admin5, admin5@gmail.com, $2y$10$akq4TOcCTP3G8rYj/gwHrO4Rw8BMVb5kAxJHM.ZFWJ6AM2/KwL1KC
+admin6, admin6@gmail.com, $2y$10$ohoyq0J1pDZrTJiOYho5q.3M2gVdD3k0uhW2.7v6rFYFvG2HwJf1y
